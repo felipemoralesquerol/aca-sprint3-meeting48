@@ -2,7 +2,7 @@
 
 # Manos a la obra
 ## Desde el servicio S3
-1) Crear un bucket con un nombre a elección
+1) Crear un bucket con un nombre a elección de ACCESSO PUBLICO!
 2) Crear una carpeta dentro del bucket
 3) Subir el archivo index.html dentro de la carpeta que esta dentro del bucket
 
