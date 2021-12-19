@@ -1,4 +1,4 @@
-# Uso de S3 & cloudfront
+# Uso de S3 & cloudfront.
 
 # Manos a la obra
 ## Desde el servicio S3
