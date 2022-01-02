@@ -9,7 +9,8 @@
 ## Desde el servicio cloudfront
 4) Crear un OAI (Origin Access Identify)
 5) Crear una distribución que referencia a la OAI anterior (tener en cuenta activar las politicas de bucket y establecer el default root object)
-6) Realizar las pruebas y ajustes requeridos
+6) Realizar las pruebas 
+7) Aplicar los ajustes requeridos
 
 ## Links de interes
 
